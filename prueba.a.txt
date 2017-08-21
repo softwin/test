@@ -1,1 +1,2 @@
 Este es el archivo prueba.a.txt
+Una línea adicional
